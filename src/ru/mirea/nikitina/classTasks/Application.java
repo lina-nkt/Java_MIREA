@@ -1,4 +1,4 @@
-package ru.mirea.nikitina;
+package ru.mirea.nikitina.classTasks;
 
 import java.util.ArrayList;
 import java.util.Arrays;

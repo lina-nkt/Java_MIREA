@@ -1,4 +1,4 @@
-package ru.mirea.nikitina.practice2;
+package ru.mirea.nikitina.classTasks.practice2;
 
 import java.util.Comparator;
 import java.util.List;

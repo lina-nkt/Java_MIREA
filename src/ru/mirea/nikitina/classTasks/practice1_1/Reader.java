@@ -1,6 +1,4 @@
-package ru.mirea.nikitina.practice1_1;
-
-import ru.mirea.nikitina.practice1_1.Book;
+package ru.mirea.nikitina.classTasks.practice1_1;
 
 import java.time.LocalDate;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package ru.mirea.nikitina.practice1_1;
+package ru.mirea.nikitina.classTasks.practice1_1;
 
 import java.util.List;
 

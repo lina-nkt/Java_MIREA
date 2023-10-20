@@ -1,4 +1,4 @@
-package ru.mirea.nikitina.hometask1.task_2;
+package ru.mirea.nikitina.homeTasks.hometask1.task_2;
 
 public class BookBox implements Box<Book> {
     private Book book;

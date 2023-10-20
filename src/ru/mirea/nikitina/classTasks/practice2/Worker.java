@@ -1,4 +1,4 @@
-package ru.mirea.nikitina.practice2;
+package ru.mirea.nikitina.classTasks.practice2;
 
 public class Worker {
 

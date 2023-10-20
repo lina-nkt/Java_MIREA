@@ -1,4 +1,4 @@
-package ru.mirea.nikitina.hometask1;
+package ru.mirea.nikitina.homeTasks.hometask1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
