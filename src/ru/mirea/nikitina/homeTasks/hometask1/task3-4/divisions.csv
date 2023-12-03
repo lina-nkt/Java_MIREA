@@ -1,0 +1,9 @@
+Name, Position, Salary, Division
+John,HEAD,3000,HR
+Alice,MANAGER,2000,HR
+Bob,SALER,1500,HR
+Charlie,MANAGER,2000,Tech
+David,WORKER,1000,Tech
+Eva,HEAD,3000,Sales
+Frank,MANAGER,2000,Sales
+Grace,WORKER,1000,Sales
